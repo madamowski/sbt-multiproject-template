@@ -8,5 +8,5 @@
 Select *'Import Project'* and choose **build.sbt** from the main directory
 
 ##References
-[sbt][http://www.scala-sbt.org/0.13.5/docs/Getting-Started/Multi-Project.html]
+[sbt documentation](http://www.scala-sbt.org/0.13.5/docs/Getting-Started/Multi-Project.html)
 
